@@ -226,9 +226,9 @@ let HTML = `<!DOCTYPE html>
           </div>
 
           <div class="socials">
-            <a href="https://github.com/ZAR0X/duck-gui" title="GitHub"><i class="fab fa-github"></i></a>
-            <a href="https://t.me/execal" title="Telegram"><i class="fab fa-telegram"></i></a>
-            <a href="mailto:qzarox@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/Adithyan06" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://t.me/Peterparker6" title="Telegram"><i class="fab fa-telegram"></i></a>
+            <a href="kannan2023.18@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
           </div>
           
         </div>
@@ -238,7 +238,7 @@ let HTML = `<!DOCTYPE html>
     <div id="intro-cards-container" class="intro-cards hidden">
       <div class="intro-card card-1">
         <img src="${CONFIG.resources.source}" alt="Open Source Icon" />
-        <p>This GUI is an open-source project for <a href="https://github.com/vauth/duckgpt">DuckGPT</a></p>
+        <p>This GUI is an open-source project for <a href="https://github.com/Adithyan06/duckgpt">Jarvis</a></p>
       </div>
       <!-- <div class="intro-card card-2">
         <img src="${CONFIG.resources.help}" alt="Help Icon" />
@@ -246,7 +246,7 @@ let HTML = `<!DOCTYPE html>
       </div> -->
       <div class="intro-card card-3">
         <img src="${CONFIG.resources.developer}" alt="Developer Icon" />
-        <p>Front-End: <a href="https://github.com/ZAR0X">Zarox</a><br>Back-End: <a href="https://github.com/VAUTH">Vauth</a></p>
+        <p>Developer: <a href="https://github.com/Adithyan06">Adithyan</a></p>
       </div>
     </div>
     <div class="chat-container">
