@@ -96,7 +96,7 @@ let CONFIG = {
       "send": `https://vauth.github.io/duck-gui/assets/send.png`,
       "setting": `https://vauth.github.io/duck-gui/assets/setting.png`,
       "source": `https://vauth.github.io/duck-gui/assets/source.png`,
-      "favicon": `https://vauth.github.io/duck-gui/assets/favicon.png`,
+      "favicon": `https://github.com/Adithyan06/duckgpt/blob/main/images.jpg`,
       "ogcover": `https://vauth.github.io/duck-gui/assets/ogcover.png`
   }
 }
@@ -107,7 +107,7 @@ let CONFIG = {
 let HTML = `<!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="icon" type="image/png" sizes="512x512" href="${CONFIG.resources.favicon}" />
+    <link rel="icon" type="image/jpg" sizes="512x512" href="${CONFIG.resources.favicon}" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="JARVIS unlimited AI assistant." />
     <meta name="keywords" content="chatgpt, AI" />
