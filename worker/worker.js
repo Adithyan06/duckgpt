@@ -97,7 +97,7 @@ let CONFIG = {
       "setting": `https://vauth.github.io/duck-gui/assets/setting.png`,
       "source": `https://vauth.github.io/duck-gui/assets/source.png`,
       "favicon": `https://github.com/Adithyan06/duckgpt/blob/main/images.jpg`,
-      "ogcover": `https://vauth.github.io/duck-gui/assets/ogcover.png`
+      "ogcover": `https://github.com/Adithyan06/duckgpt/blob/main/worker/Jarvis.png`
   }
 }
 
