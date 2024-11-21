@@ -109,11 +109,11 @@ let HTML = `<!DOCTYPE html>
   <head>
     <link rel="icon" type="image/png" sizes="512x512" href="${CONFIG.resources.favicon}" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="DuckGPT unlimited AI assistant." />
-    <meta name="keywords" content="chatgpt, duckgpt, duckduckgo, AI" />
+    <meta name="description" content="JARVIS unlimited AI assistant." />
+    <meta name="keywords" content="chatgpt, AI" />
     <meta property="og:image" content="${CONFIG.resources.ogcover}"> 
-    <meta name="author" content="execal">
-    <title>DuckGPT Chat</title>
+    <meta name="author" content="Peterparker">
+    <title>JARVIS AI Assistant</title>
     <meta charset="UTF-8" />
     
     <style>
