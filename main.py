@@ -7,11 +7,11 @@ from googlesearch import get_random_user_agent
 
 class DuckGPT:
     """
-    Client = DuckGPT(model="gpt-4o-mini")
+    Client = DuckGPT(model="claude-3-haiku-20240307")
     Get list of models >> Client.Models() -> list
     Chat using history >> Client.Chat(str, List[Dict[str, str]]) -> str
     """
-    def __init__(self, model="gpt-4o-mini"):
+    def __init__(self, model="claude-3-haiku-20240307"):
         self.version = 'v1.0'
         self.model = f'{model}'
         self.author = 'github.com/vauth'
